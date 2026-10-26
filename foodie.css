@@ -346,15 +346,14 @@ form button{
     color: #fff;
     font-size:18px;
     font-weight: 700;
-    cursor:pointer;
-}
+    cursor:pointer;}
 footer {
   background-color: #1c1c1c;
   color: #a1a1a1;
- 
+ margin-top: 60px;
   width: 100%;
- padding: 50px 80px 20px 80px;
- margin: 0 auto;
+
+
 }
 
 .footer-container {
